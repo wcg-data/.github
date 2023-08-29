@@ -1,6 +1,5 @@
 ## Who are we 👋
 
-We are WCG.
 
 WCG is an organization dedicated to human sustainable development, deep space exploration, and tackling medical challenges. With a commitment to harnessing the power of distributed computing, WCG aims to address some of the world's most pressing and complex issues.
 
