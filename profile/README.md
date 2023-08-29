@@ -1,4 +1,4 @@
-## Hi there 👋
+## Who are we 👋
 
 We are WCG.
 
