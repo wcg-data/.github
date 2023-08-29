@@ -2,7 +2,7 @@
 
 We are WCG.
 
-WCG is an organization on GitHub dedicated to human sustainable development, deep space exploration, and tackling medical challenges. With a commitment to harnessing the power of distributed computing, WCG aims to address some of the world's most pressing and complex issues.
+WCG is an organization dedicated to human sustainable development, deep space exploration, and tackling medical challenges. With a commitment to harnessing the power of distributed computing, WCG aims to address some of the world's most pressing and complex issues.
 
 Comprised of a diverse community of global volunteers, including scientists, engineers, students, and individuals passionate about human sustainable development, WCG leverages idle computational resources from volunteers' computers to accelerate research projects. By breaking down large-scale computational tasks into smaller units and running them in parallel on volunteers' machines, WCG expedite scientific progress.
 <!--
